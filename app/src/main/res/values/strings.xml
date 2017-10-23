@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Proto</string>
+    <string name="login">Login</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="cpl1">CPL1</string>
+    <string name="cl5">cl5</string>
+    <string name="cl7">cl7</string>
+    <string name="cl9">cl9</string>
+    <string name="cl11">cl11</string>
+    <string name="cl12">cl12</string>
+    <string name="cl10">cl10</string>
+    <string name="cl8">cl8</string>
+    <string name="cl6">cl6</string>
+    <string name="cl4">cl4</string>
+    <string name="cl2">cl2</string>
+    <string name="title_activity_inside">Inside</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
